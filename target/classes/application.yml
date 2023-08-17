@@ -1,0 +1,9 @@
+server:
+  port: 9090
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://digamberbaral:63lfyYrYlUu0hBTr@cluster0.abklpqo.mongodb.net/?retryWrites=true&w=majority
+      database: orders-db
+      minPoolSize: 10
+      maxPoolSize: 50

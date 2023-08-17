@@ -1,0 +1,16 @@
+com\dbsync\mongodebezium\configuration\MongoConfig.class
+com\dbsync\mongodebezium\entity\OrderItem.class
+com\dbsync\mongodebezium\configuration\MongoProperties.class
+com\dbsync\mongodebezium\repository\OrderRepository.class
+com\dbsync\mongodebezium\api\OrderApi.class
+com\dbsync\mongodebezium\configuration\CustomDateTimeProvider.class
+com\dbsync\mongodebezium\entity\Order.class
+com\dbsync\mongodebezium\entity\OrderStatus.class
+com\dbsync\mongodebezium\model\AddOrderRequest.class
+com\dbsync\mongodebezium\MongoDebeziumApplication.class
+com\dbsync\mongodebezium\configuration\LocalDateTimeWriteConverter.class
+com\dbsync\mongodebezium\entity\OrderItem$OrderItemBuilder.class
+com\dbsync\mongodebezium\entity\Order$OrderBuilder.class
+com\dbsync\mongodebezium\service\OrderService.class
+com\dbsync\mongodebezium\configuration\LocalDateTimeReadConverter.class
+com\dbsync\mongodebezium\model\AddOrderItemRequest.class
